@@ -1,6 +1,6 @@
-# flutternumberpicker
+# flutter_number_picker
 
-A new Flutter package.
+Based on https://github.com/andrezanna/NumberPicker
 
 ## Getting Started
 
